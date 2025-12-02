@@ -4,7 +4,7 @@ print("hello from day2")
 
 ########################################################################
 # Task 1:
-for count in range(100):
+for count in range(00):
     print("Hello")
 
 
