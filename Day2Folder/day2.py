@@ -37,6 +37,5 @@ for count in range(100):
 ########################################################################
 # Additional exercises:
 def print(word):
-        print(word)
-wor
-print()
+    print(word)
+print(hello)
